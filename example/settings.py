@@ -134,7 +134,7 @@ INSTALLED_APPS = (
 # DSN of your Sentry server (https://github.com/dcramer/sentry)
 # For info on configuring Django to use Sentry, see
 # http://raven.readthedocs.org/en/latest/config/django.html
-SENTRY_DSN = 'http://public:secret@example.com/1'
+SENTRY_DSN = 'http://5c9531bf4ec04fd2b54f492b32dc6c86:08f2c29f991441d4a98bf75e053bbfbc@localhost:9000/1'
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to
